@@ -1,0 +1,16 @@
+easydict>=1.9
+opencv-python>=4.5.0
+timm>=0.4.10
+scipy>=1.7.0
+tqdm>=4.40.0
+tensorboardX>=2.2
+packaging
+timm==0.4.12
+pytest 
+chardet 
+yacs 
+termcolor
+submitit 
+tensorboardX
+fvcore
+seaborn
